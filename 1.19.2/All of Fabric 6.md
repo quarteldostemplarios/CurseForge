@@ -1,38 +1,50 @@
-### QDT's All of Fabric 6 1.10.1 v1 - 08/09/2023
-### Mods de performance
-- Iris 1.4.0 (Downgrade)
-- Cull Less Leaves 1.0.6 (Adicionar)
+# QDT's All of Fabric 6
 
-### Adicionar esse mods
-- Immersive Portals 2.3.1
-- Ring of Repair 1.0.4
-- Repair Kit 1.0.2
-- High-Speed Rail 0.0.2
-- Zenith 0.7.1
-- Small Ships 2.0.0 alpha 2.3
-- Immersive Aircraft 0.5.2
-- SoundMuffler (CurseForge) 1.0.2
-- MC Dungeon Artifacts 5.0.13
-
-### Adicionar alguns mods que foram tirados na atualização pra evitar de quebrar o mundo
-- Snowy Spirit
-- More Frogs
-- MedievalWeapons 
-- Lil' Wings
-- Shroom Dealers!
-- Mob Vote 2022 [Fabric] - Sniffer, Rascal, Tuff Golem
-- YUNG's Better Nether Fortresses
-
-### Tirar alguns mods que foram adicionados na atualização
-- Spice of Fabric (Fabric) - Tem que comer comidas - diferenciadas
-- Better Combat [Fabric & Forge] - Animação bonitinha
-
-### Server-side
-- Krypton
+### Mods Server-side
+- Krypton 0.2.1
 - Textile Backup
 
-### Workarounds
-- Downgrade do Roughly Enought Items pra 9.1.595 porquê aparentemente as novas versões estão crashando
+---
+
+### Changelogs
+<details>
+	<summary>1.10.1</summary>
+
+  ### QDT's All of Fabric 6 1.10.1 v1 - 08/09/2023
+
+  ### Tirar alguns mods que foram adicionados na atualização
+  - Spice of Fabric (Fabric) - Tem que comer comidas diferenciadas
+	- Better Combat [Fabric & Forge] - Animação bonitinha
+
+	### Tweaks de performance
+	- Cull Less Leaves 1.0.6 (Adicionar)
+	- Iris 1.4.0 (Downgrade)
+	- FTB Chunks (Remover)
+
+	### Adicionar esse mods
+	- Repair Kit 1.0.4 (Upgrade)
+	- High-Speed Rail 0.0.3 (Upgrade)
+	- Zenith 0.7.1 (Upgrade)
+	- Immersive Aircraft 0.6.2 (Upgrade)
+	
+	- MC Dungeon Artifacts 1.5.3 (Acidentalmente removido durante o upgrade pra 1.5)
+
+	- Ring of Repair 1.0.4
+	- Immersive Portals 2.3.1
+	- Small Ships 2.0.0 alpha 2.3
+	- SoundMuffler (CurseForge) 1.0.2
+
+	### Adicionar alguns mods que foram tirados durante as atualização pra evitar de quebrar o mundo
+	- Snowy Spirit 2.1.13 (Upgrade)
+	- MedievalWeapons 1.4.5 (Upgrade)
+	- YUNG's Better Nether Fortresses 1.0.6 (Upgrade)
+	
+	- Friends&Foes 2.0.6 (Substituto do Mob Vote 2022)
+
+	- More Frogs 1.2.3
+	- Lil' Wings 1.2.3
+	- Shroom Dealers! 1.6
+</details>
 
 ---
 
@@ -75,7 +87,6 @@
 - Krypton 0.2.1 (Apenas no Servidor)
 
 ---
-
 ### QDT's All of Fabric 6 1.3.0 v1 - 22/03/2023
 - Downgrade pro Iris 1.4.0
 - Immersive Portals 2.3.1
