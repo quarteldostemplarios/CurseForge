@@ -2,8 +2,9 @@
 
 ### Mods Server-side
 - Krypton
-- Textile Backup
+- Textile Backup (Compressão TAR)
 - LAN World Plug-n-Play
+- Server Performance - Smooth Chunk Save[Forge/Fabric] 3.5
 
 ---
 
@@ -16,8 +17,16 @@
 ### Changelogs
 <details>
 <summary>1.10.1</summary>
+  ### QDT's All of Fabric 6 1.10.1 v2 - 31/12/2023
+  - Recipes do BotanyPots foram arrumados
 
-  ### QDT's All of Fabric 6 1.10.1 - 08/09/2023
+  ### Adicionar esse mods
+  - Memory Leak Fix 1.1.2
+  - More Culling 0.17
+  - Exordium 1.0.2 (Renderiza o inventario num FPS menor)
+  - Observable 3.3.1 (Ajuda a diagonsticar lag)
+
+  ### QDT's All of Fabric 6 1.10.1 v1 - 30/12/2023
 
   Essa versão foi criada a partir de um upgrade da 1.5.1
   
