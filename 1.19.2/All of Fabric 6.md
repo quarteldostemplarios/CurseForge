@@ -15,7 +15,7 @@
 <summary>1.10.1</summary>
 
   ### QDT's All of Fabric 6 1.10.1 v3 - 01/01/2024
-  - Removido VoxelMap e reintroduzido o FTB Chunks pois foi determinado que os problemas de FPS anteriores não eram relacionados ao FTB Chunks; VoxelMap atual está bugado e foi descontinuado
+  - VoxelMap foi removido e substituido pelo FTB Chunks pois foi determinado que os problemas de FPS anteriores não eram relacionados ao FTB Chunks; VoxelMap atual está bugado e foi descontinuado.
 
   ### Adicionar esse mods
   - Cooking for Blockheads 13.3.4 (Atualizar)
@@ -26,6 +26,9 @@
   - FTB Chunks 1902.4.3-build.321
   - FTB XMod Compat 1.2.3
   - Max Enchant X 1.3
+
+  ### Remover esses mods
+  - VoxelMap
 
   ---
   ### QDT's All of Fabric 6 1.10.1 v2 - 31/12/2023
