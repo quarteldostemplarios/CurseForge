@@ -8,15 +8,22 @@
 
 ---
 
-### Tweaks de performance
-- Cull Less Leaves 1.0.6 (Adicionar)
-- FTB Chunks (Remover)
-
----
-
 ### Changelogs
 <details>
 <summary>1.10.1</summary>
+  ### QDT's All of Fabric 6 1.10.1 v3 - 01/01/2024
+  - Removido VoxelMap e reintroduzido o FTB Chunks pois foi determinado que os problemas de FPS anteriores não eram relacionados ao FTB Chunks; VoxelMap atual está bugado e foi descontinuado
+
+  ### Adicionar esse mods
+  - Cooking for Blockheads 13.3.4 (Atualizar)
+  - Farming for Blockheads 11.3.5 (Atualizar)
+  - Create Slice & Dice 2.3.2 (Atualizar)
+  - FTB Quests 1902.5.7-build.326 (Atualizar)
+
+  - FTB Chunks 1902.4.3-build.321
+  - FTB XMod Compat 1.2.3
+  - Max Enchant X 1.3
+
   ### QDT's All of Fabric 6 1.10.1 v2 - 31/12/2023
   - Recipes do BotanyPots foram arrumados
 
@@ -28,11 +35,12 @@
 
   ### QDT's All of Fabric 6 1.10.1 v1 - 30/12/2023
 
-  Essa versão foi criada a partir de um upgrade da 1.5.1
+  Essa versão foi criada a partir de um upgrade da 1.5.1 portanto os mods manualmente adicionados anteriormente permaneceram
   
   ### Tirar alguns mods que foram adicionados na atualização
   - Spice of Fabric (Fabric) - Tem que comer comidas diferenciadas
   - Better Combat [Fabric & Forge] - Animação bonitinha
+  - FTB Chunks
 
   ### Adicionar esse mods
   - Zenith 0.7.1 (Upgrade)
@@ -59,6 +67,7 @@
   ### QDT's All of Fabric 6 1.5.1 v3 - 30/03/2023
 
   ### Adicionar esse mods
+  - Cull Less Leaves 1.0.6
   - Immersive Portals
   - Ring of Repair
   - Repair Kit
