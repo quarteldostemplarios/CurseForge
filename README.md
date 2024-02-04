@@ -2,7 +2,7 @@
 
 Pagina feita para catalogar os Modpacks jogados pela QDT.
 
-- [All of Fabric 6](1.19.2/All of Fabric 6.md)
+- [All of Fabric 6](https://github.com/quarteldostemplarios/CurseForge/blob/main/1.19.2/All%20of%20Fabric%206.md)
 
 # Dicas
 - Modpacks até a 1.16 necessitam do [Java 8](https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR)
@@ -15,7 +15,6 @@ Pagina feita para catalogar os Modpacks jogados pela QDT.
 ### Parametros otimizados para sistemas com pelo menos 8GB de RAM
 
 <details><summary>Parametros Padrão</summary>
-
 ```
 -XX:+UseG1GC 
 -XX:+ParallelRefProcEnabled 
