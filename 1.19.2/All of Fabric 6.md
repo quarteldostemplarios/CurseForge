@@ -6,11 +6,29 @@
 - LAN World Plug-n-Play
 - Server Performance - Smooth Chunk Save[Forge/Fabric] 3.5
 
-### Workarounds
-- Powah! 4.0.6 (Downgrade)
-
 ---
 ### Changelogs
+<details>
+<summary>1.11</summary>
+  
+  ### QDT's All of Fabric 6 1.11 v1 - 30/12/2023
+
+  Essa versão foi criada a partir de um upgrade da 1.10.1 v3 portanto os mods manualmente adicionados anteriormente permaneceram.
+
+  ### Atualizar o Fabric para versão 0.15.7
+
+  ### Atualizações
+  - FTB Quests 1902.5.8 (Build 345)
+  - Powah! 4.0.11
+  - Zenith 0.7.2
+  - Immersive Aircraft 0.7.1
+  - Snowy Spirits 2.2.0
+  - Friends&Foes 2.0.9
+  - Memory Leak Fix 1.1.5
+  - BotanyPots 9.0.4
+  
+</details>
+
 <details>
 <summary>1.10.1</summary>
 
@@ -44,6 +62,9 @@
   ### QDT's All of Fabric 6 1.10.1 v1 - 30/12/2023
 
   Essa versão foi criada a partir de um upgrade da 1.5.1 portanto os mods manualmente adicionados anteriormente permaneceram
+
+  ### Workarounds
+  - Powah! 4.0.6 (Downgrade) - Após o update 4.0.7 https://github.com/Technici4n/Powah/pull/79 foi introduzido um crash relacionado ao carregamento de Trinkets
   
   ### Tirar alguns mods que foram adicionados na atualização
   - Spice of Fabric (Fabric) - Tem que comer comidas diferenciadas
